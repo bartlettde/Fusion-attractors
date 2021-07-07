@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"99341bb3-ce32-4fd3-9d4f-664df92ea61b",
+	"author":	"Daniel Bartlett",
+	"description":	{
+		"":	"Plots a Lorenz Attractor"
+	},
+	"version":	"0.1",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
