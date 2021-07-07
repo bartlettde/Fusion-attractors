@@ -1,5 +1,6 @@
 # Fusion-attractors
 This add-in allows users to visualise strange attractors in their Autodesk Fusion 360 environments. 
+![Screenshot of the add-in being used](https://github.com/bartlettde/Fusion-attractors/blob/main/images/Picture3.png)
 
 ## Why? 
 Honestly... there is no good reason why. This tool is not useful in anyway. But I found it interesting to create the tool, learn about strange attractors and the Fusion 360 API.
